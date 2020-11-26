@@ -1,4 +1,5 @@
 # CS462 Internet of Things Project
+## Team 8, Ultrasonic the Hedgehog
 
 This project aimed to measure the usage of toilets at a hawker centre using ultrasonic sensors placed at the entrance of the toilet, and in the cubicle area. To provide more measures of toilet cleanliness, a humidity and temperature sensor was deployed as well.
 
