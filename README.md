@@ -17,9 +17,12 @@ The sensors were connected to microbits (code in /microbits/) which communicated
 ## The Team
 <img src="/images/team8photo.jpeg" alt="drawing" width="50%"/>
 
-* **Cliffen Lee** - [Cliffenlee](https://github.com/Cliffenlee)
-* **Eunice Chua** - [eunicechua](https://github.com/eunicecxj)
-* **Glen See** - [glensee](https://github.com/glensee)
-* **Liaw Siew Yee** - [liawsy](https://github.com/liawsy)
+*Back row, from left to right*
 * **Tsang Bao Xian** - [bxtsang](https://github.com/bxtsang)
+* **Glen See** - [glensee](https://github.com/glensee)
+* **Cliffen Lee** - [Cliffenlee](https://github.com/Cliffenlee)
+
+*Front row, from left to right*
+* **Eunice Chua** - [eunicechua](https://github.com/eunicecxj)
+* **Liaw Siew Yee** - [liawsy](https://github.com/liawsy)
 * **Mary Heng** - [maryheng](https://github.com/maryheng)
