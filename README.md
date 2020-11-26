@@ -12,3 +12,14 @@ The sensors were connected to microbits (code in /microbits/) which communicated
 ## Raspberry Pi flows in Node-Red
 ![node-red flows](/images/rpi_flow.JPG?raw=true "node-red flows")
 *Source code files are named according to the node names.*
+
+
+## The Team
+<img src="/images/team8photo.jpeg" alt="drawing" width="50%"/>
+
+* **Cliffen Lee** - [Cliffenlee](https://github.com/Cliffenlee)
+* **Eunice Chua** - [eunicechua](https://github.com/eunicecxj)
+* **Glen See** - [glensee](https://github.com/glensee)
+* **Liaw Siew Yee** - [liawsy](https://github.com/liawsy)
+* **Tsang Bao Xian** - [bxtsang](https://github.com/bxtsang)
+* **Mary Heng** - [maryheng](https://github.com/maryheng)
